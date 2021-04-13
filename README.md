@@ -1,4 +1,4 @@
-- 👋 Hi there! 
+👋 Hi there! 
 
 Meu nome é Isadora Lopes,
 iniciante em desenvolvimento web front-end.

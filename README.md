@@ -23,4 +23,4 @@ de desenvolvimento pessoal.
 
 Gostaria de entrar em contato?
 
-linkedin: https://www.linkedin.com/in/isadoraclopes/
+Linkedin: https://www.linkedin.com/in/isadoraclopes/

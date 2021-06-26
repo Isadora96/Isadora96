@@ -1,8 +1,12 @@
-👋 Hi there! 😁
+👋 Hi there, eu sou a Isadora! 😁
 
-Meu nome é Isadora Lopes,
-iniciante em desenvolvimento web front-end.
-Estou aprendendo a programar(👩‍💻) desde o 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Isadora96)](https://github.com/Isadora96)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadoraclopes/)](https://www.linkedin.com/in/isadoraclopes/)
+
+
+
+Iniciante em desenvolvimento web front-end,
+estou aprendendo a programar(👩‍💻) desde o 
 ínicio deste ano(2021) e de imediato 
 simplesmente me apaixonei por esta área.
 Venho de uma área totalmente diferente, mas
@@ -21,6 +25,4 @@ assistir um pouco de Tv(📺),ouvir música(🎶) etc.,
 mas o que eu mais amo fazer é ler livros(📚)
 de desenvolvimento pessoal.
 
-Gostaria de entrar em contato?
-
-Linkedin: https://www.linkedin.com/in/isadoraclopes/
+- [Website](https://isadoralopes.netlify.app/) 💻

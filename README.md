@@ -25,4 +25,4 @@ assistir um pouco de Tv(📺),ouvir música(🎶) etc.,
 mas o que eu mais amo fazer é ler livros(📚)
 de desenvolvimento pessoal.
 
-- [Website](https://isadoralopes.netlify.app/) 💻
+- [Portfolio](https://isadoralopes.netlify.app/) 💻 - Em desenvolvimento...

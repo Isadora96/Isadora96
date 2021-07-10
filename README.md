@@ -18,7 +18,7 @@ atualmente venho aprendendo:
 
 - HTML
 - CSS
-- Javascript
+- Javascript(React)
 
 No meu tempo livre adoro jogar video game(🎮),
 assistir um pouco de Tv(📺),ouvir música(🎶) etc.,

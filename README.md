@@ -26,3 +26,5 @@ mas o que eu mais amo fazer é ler livros(📚)
 de desenvolvimento pessoal.
 
 - [Portfolio](https://isadoralopes.netlify.app/) 💻 - Em desenvolvimento...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?isadora96=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

@@ -27,7 +27,7 @@ assistir um pouco de Tv(📺),ouvir música(🎶) etc.,
 mas o que eu mais amo fazer é ler livros(📚)
 de desenvolvimento pessoal.
 
-- [Portfolio](https://isadoralopes.netlify.app/) 💻 - Em desenvolvimento...
+- [Portfolio](https://isadora96.github.io/portfolio-dev-isa/) 💻 - Em desenvolvimento...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isadora96&show_icons=true&theme=dark)
 

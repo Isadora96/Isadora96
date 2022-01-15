@@ -1,6 +1,6 @@
 👋 Hi there, eu sou a Isadora! 😁
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.gmail.com/isadora.c.lopes/)](https://gmail.com/isadora.c.lopes)
+<a href = "mailto:contato@isadora.c.lopes"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadoraclopes/)](https://www.linkedin.com/in/isadoraclopes/)
 
 

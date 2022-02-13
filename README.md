@@ -1,28 +1,19 @@
-👋 Hi there, eu sou a Isadora! 😁
+👋 Hi there, I'm Isadora, a junior developer who's passionate for technologies and with coding! 
 
 <a href="https://www.linkedin.com/in/isadoraclopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-Iniciante em desenvolvimento web front-end,
-estou aprendendo a programar(👩‍💻) desde o 
-ínicio deste ano(2021) e de imediato 
-simplesmente me apaixonei por esta área.
-Venho de uma área totalmente diferente, mas
-foi aqui que me encontrei.
+I’m currently working on a paid internship as a web developer at Bosch Brazil.
 
-Estou criando alguns projetos simples para
-adquirir experiência nas linguagens que 
-atualmente venho aprendendo:
+#Tools I work with : 🛠
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-
-No meu tempo livre adoro jogar video game(🎮),
-assistir um pouco de Tv(📺),ouvir música(🎶) etc.,
-mas o que eu mais amo fazer é ler livros(📚)
-de desenvolvimento pessoal.
 
 - [Portfolio](https://isadora96.github.io/portfolio-dev-isa/) 💻 - Em desenvolvimento...
 

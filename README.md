@@ -13,7 +13,7 @@ I’m currently working on a paid internship as a web developer at Bosch Brazil.
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![image](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />]
+<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />
 
 - [Portfolio](https://isadora96.github.io/portfolio-dev-isa/) 💻 
 

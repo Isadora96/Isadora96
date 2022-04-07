@@ -20,4 +20,4 @@ I’m currently working on a paid internship as a web developer at Bosch Brazil.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isadora96&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-Hhhhhh
+

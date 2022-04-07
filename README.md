@@ -1,4 +1,4 @@
-👋 Hi there, I'm Isadora, a junior developer who's passionate for technologies and with coding! 
+👋 Hi there, I'm Isadora,  a junior developer who's passionate for technologies and with coding! 
 
 <a href="https://www.linkedin.com/in/isadoraclopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
@@ -20,3 +20,4 @@ I’m currently working on a paid internship as a web developer at Bosch Brazil.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isadora96&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Hhhhhh

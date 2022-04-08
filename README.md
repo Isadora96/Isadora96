@@ -21,3 +21,4 @@ I’m currently working on a paid internship as a web developer at Bosch Brazil.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=linanekrasova&card&colormode=dark_mode" />

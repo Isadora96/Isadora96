@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/isadoraclopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-👩🏽‍💼 I’m currently working on a paid internship as a web developer at Bosch Brazil.
+👩🏽‍💼 I’m currently working on a paid internship as a front-end web developer.
 
 🛠 Tools I work with : 
 

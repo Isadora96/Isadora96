@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/isadoraclopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="mailto:isadora.c.lopes@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-👩🏽‍💼 I’m currently working on a paid internship as a web developer at IBM.
+👩🏽‍💼 I’m currently working on a paid internship as an application developer at IBM.
 
 🛠 Tools I work with : 
 

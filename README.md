@@ -30,6 +30,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isadora96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-🧠 My focus now is to try to improve my logic by doing some challenges from CodeWars website .
+👩🏻‍💻 My focus now is to understand how the web layer works in these two areas (front and back) and how they communicate.
 
 <img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Isadora96&card&colormode=dark_mode" />

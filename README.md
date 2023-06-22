@@ -33,4 +33,4 @@
 
 👩🏻‍💻 My focus now is to understand how the web layer works in these two areas (front and back) and how they communicate.
 
-<img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=Isadora96&card&colormode=dark_mode" />
+[![Profile badge](https://www.codewars.com/users/Isadora96/badges/large)](https://www.codewars.com/users/Isadora96)
